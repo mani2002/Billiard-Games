@@ -19,4 +19,33 @@ Project is for **6th Semester Computer Graphics Course project**
 4. L Jeya Suriya&nbsp;&nbsp;&nbsp; [![GitHub followers](https://img.shields.io/github/followers/jsuriya9102?style=social)](https://github.com/jsuriya9102)
 5. Sattaru Harshavardhan Reddy&nbsp;&nbsp;&nbsp; [![GitHub followers](https://img.shields.io/github/followers/harshasattaru?style=social)](https://github.com/harshasattaru)
 ---
-### Languages Used
+
+### Languages
+
+![c-sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+---
+
+### Game Engine
+
+![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+---
+
+### IDE's
+
+![visual studio code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+---
+
+### DESIGN
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+---
+
+### Credits
+
+- KeyCodes https://docs.unity3d.com/ScriptReference/KeyCode.html
+- For Singleton Code https://www.mrventures.net/all-tutorials/service-locators-singletons
+- Probuilder https://youtu.be/rNwEFVs4B4Y
+- Textures https://polyhaven.com/textures
+- Audio https://gamedevbeginner.com/how-to-play-audio-in-unity-with-examples/#clip_at_point
+- Event Handiling https://codereview.stackexchange.com/questions/236070/c-event-manager-without-allocations
+- Unity https://youtu.be/gB1F9G0JXOo
+
