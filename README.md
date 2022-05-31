@@ -15,7 +15,7 @@ Project is for **6th Semester Computer Graphics Course project**
 ### Contributor
 1. Mailapalli Purushotham&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub followers](https://img.shields.io/github/followers/purus15987?style=social)](https://github.com/purus15987) 
 2. Terala Manikiran&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub followers](https://img.shields.io/github/followers/mani2002?style=social)](https://github.com/mani2002)
-3. Rasamsetty Naga Venkata Sai&nbsp;&nbsp;&nbsp;&nbsp; 
+3. Rasamsetty Naga Venkata Sai&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub followers](https://img.shields.io/github/followers/nagavenkatasai27?style=social)](https://github.com/nagavenkatasai27)
 4. L Jeya Suriya&nbsp;&nbsp;&nbsp; [![GitHub followers](https://img.shields.io/github/followers/jsuriya9102?style=social)](https://github.com/jsuriya9102)
 5. Sattaru Harshavardhan Reddy&nbsp;&nbsp;&nbsp; [![GitHub followers](https://img.shields.io/github/followers/harshasattaru?style=social)](https://github.com/harshasattaru)
 ---
