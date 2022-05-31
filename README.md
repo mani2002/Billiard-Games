@@ -1,6 +1,6 @@
 # Billiard-Games
 
-![GitHub contributors](https://img.shields.io/github/contributors/mani2002/Billiard-Games),(https://img.shields.io/github/followers/harshasattaru?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/mani2002/Billiard-Games)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mani2002/Billiard-Games)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mani2002/Billiard-Games)
 ![GitHub forks](https://img.shields.io/github/forks/mani2002/Billiard-Games)
