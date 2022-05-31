@@ -1,6 +1,6 @@
 # Billiard-Games
 
-![GitHub contributors](https://img.shields.io/github/contributors/mani2002/Billiard-Games)
+![GitHub contributors](https://img.shields.io/github/contributors/mani2002/Billiard-Games),(https://img.shields.io/github/followers/harshasattaru?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mani2002/Billiard-Games)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mani2002/Billiard-Games)
 ![GitHub forks](https://img.shields.io/github/forks/mani2002/Billiard-Games)
@@ -19,3 +19,4 @@ Project is for **6th Semester Computer Graphics Course project**
 4. L Jeya Suriya&nbsp;&nbsp;&nbsp; [![GitHub followers](https://img.shields.io/github/followers/jsuriya9102?style=social)](https://github.com/jsuriya9102)
 5. Sattaru Harshavardhan Reddy&nbsp;&nbsp;&nbsp; [![GitHub followers](https://img.shields.io/github/followers/harshasattaru?style=social)](https://github.com/harshasattaru)
 ---
+###
